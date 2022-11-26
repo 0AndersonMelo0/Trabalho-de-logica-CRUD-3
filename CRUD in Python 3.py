@@ -1,5 +1,3 @@
-# Todos os comando utilizados foram retirados do site: https://pt.stackoverflow.com/
-# E do canal do You Tube: Hashtag Programação
 from time import sleep
 import os
 def semfun():
